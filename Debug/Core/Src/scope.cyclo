@@ -1,0 +1,6 @@
+../Core/Src/scope.c:36:6:setTimerFreq	1
+../Core/Src/scope.c:43:6:scopeInit	1
+../Core/Src/scope.c:61:6:sample	2
+../Core/Src/scope.c:71:6:scopeLoop	2
+../Core/Src/scope.c:88:6:HAL_ADC_ConvCpltCallback	1
+../Core/Src/scope.c:94:6:HAL_UART_RxCpltCallback	4

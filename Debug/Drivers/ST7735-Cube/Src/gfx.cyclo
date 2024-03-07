@@ -1,0 +1,14 @@
+../Drivers/ST7735-Cube/Src/gfx.c:17:6:drawBitmap	3
+../Drivers/ST7735-Cube/Src/gfx.c:26:6:drawCircle	3
+../Drivers/ST7735-Cube/Src/gfx.c:63:6:drawRect	1
+../Drivers/ST7735-Cube/Src/gfx.c:71:6:fillRect	2
+../Drivers/ST7735-Cube/Src/gfx.c:77:6:clearDisplay	1
+../Drivers/ST7735-Cube/Src/gfx.c:82:6:drawChar	17
+../Drivers/ST7735-Cube/Src/gfx.c:126:6:setCursor	1
+../Drivers/ST7735-Cube/Src/gfx.c:132:6:setTextColor	1
+../Drivers/ST7735-Cube/Src/gfx.c:138:6:setTextSize	1
+../Drivers/ST7735-Cube/Src/gfx.c:144:6:writeChar	4
+../Drivers/ST7735-Cube/Src/gfx.c:164:6:printString	2
+../Drivers/ST7735-Cube/Src/gfx.c:180:6:drawFastVLine	2
+../Drivers/ST7735-Cube/Src/gfx.c:186:6:drawFastHLine	2
+../Drivers/ST7735-Cube/Src/gfx.c:192:6:drawLine	7

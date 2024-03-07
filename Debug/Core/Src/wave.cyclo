@@ -1,0 +1,8 @@
+../Core/Src/wave.c:37:7:frontendVoltage	1
+../Core/Src/wave.c:43:7:adcToVoltage	1
+../Core/Src/wave.c:49:6:drawGraticule	3
+../Core/Src/wave.c:62:6:dottedHLine	3
+../Core/Src/wave.c:74:6:dottedVLine	3
+../Core/Src/wave.c:86:6:drawTrace	8
+../Core/Src/wave.c:132:6:traceScreen	1
+../Core/Src/wave.c:139:6:findTrigger	11

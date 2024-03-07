@@ -1,0 +1,8 @@
+../Core/Src/ui.c:38:6:autoCal	40	static
+../Core/Src/ui.c:84:6:splash	16	static
+../Core/Src/ui.c:96:6:ui	8	static
+../Core/Src/ui.c:135:6:sideInfo	32	static
+../Core/Src/ui.c:196:6:settingsBar	32	static
+../Core/Src/ui.c:362:6:outputSerial	16	static
+../Core/Src/ui.c:379:6:outputCSV	96	static
+../Core/Src/ui.c:440:6:outputTek	80	static
